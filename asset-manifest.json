@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/hoang-huy204/my-cv.git/static/css/main.8730eb86.css",
+    "main.js": "/hoang-huy204/my-cv.git/static/js/main.30a1d513.js",
+    "static/media/tinytots.png": "/hoang-huy204/my-cv.git/static/media/tinytots.a100de4927e77b60619e.png",
+    "static/media/vietjack.png": "/hoang-huy204/my-cv.git/static/media/vietjack.8361b6d6e3a13f3e062d.png",
+    "static/media/vehicleInsurance.png": "/hoang-huy204/my-cv.git/static/media/vehicleInsurance.2517dcc1545ed1d32ca1.png",
+    "static/media/streamEasy.png": "/hoang-huy204/my-cv.git/static/media/streamEasy.36254fefee8caed5b296.png",
+    "static/media/musicApplication.png": "/hoang-huy204/my-cv.git/static/media/musicApplication.61841feed5a032daea63.png",
+    "static/media/avatar.jpg": "/hoang-huy204/my-cv.git/static/media/avatar.67a5a737919abc94a68e.jpg",
+    "index.html": "/hoang-huy204/my-cv.git/index.html",
+    "main.8730eb86.css.map": "/hoang-huy204/my-cv.git/static/css/main.8730eb86.css.map",
+    "main.30a1d513.js.map": "/hoang-huy204/my-cv.git/static/js/main.30a1d513.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8730eb86.css",
+    "static/js/main.30a1d513.js"
+  ]
+}
