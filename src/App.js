@@ -5,7 +5,7 @@ import { Fragment } from "react";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/my-cv">
       <div className="App">
         <Routes>
           {publicRoutes.map((route, index) => {
