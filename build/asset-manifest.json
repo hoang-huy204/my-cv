@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/hoang-huy204/my-cv/static/css/main.8730eb86.css",
-    "main.js": "/hoang-huy204/my-cv/static/js/main.af3ce06c.js",
-    "static/media/tinytots.png": "/hoang-huy204/my-cv/static/media/tinytots.a100de4927e77b60619e.png",
-    "static/media/vietjack.png": "/hoang-huy204/my-cv/static/media/vietjack.8361b6d6e3a13f3e062d.png",
-    "static/media/vehicleInsurance.png": "/hoang-huy204/my-cv/static/media/vehicleInsurance.2517dcc1545ed1d32ca1.png",
-    "static/media/streamEasy.png": "/hoang-huy204/my-cv/static/media/streamEasy.36254fefee8caed5b296.png",
-    "static/media/musicApplication.png": "/hoang-huy204/my-cv/static/media/musicApplication.61841feed5a032daea63.png",
-    "static/media/avatar.jpg": "/hoang-huy204/my-cv/static/media/avatar.67a5a737919abc94a68e.jpg",
-    "index.html": "/hoang-huy204/my-cv/index.html",
-    "main.8730eb86.css.map": "/hoang-huy204/my-cv/static/css/main.8730eb86.css.map",
-    "main.af3ce06c.js.map": "/hoang-huy204/my-cv/static/js/main.af3ce06c.js.map"
+    "main.css": "/static/css/main.7897f035.css",
+    "main.js": "/static/js/main.76e08f13.js",
+    "static/media/tinytots.png": "/static/media/tinytots.a100de4927e77b60619e.png",
+    "static/media/vietjack.png": "/static/media/vietjack.8361b6d6e3a13f3e062d.png",
+    "static/media/vehicleInsurance.png": "/static/media/vehicleInsurance.2517dcc1545ed1d32ca1.png",
+    "static/media/streamEasy.png": "/static/media/streamEasy.36254fefee8caed5b296.png",
+    "static/media/musicApplication.png": "/static/media/musicApplication.61841feed5a032daea63.png",
+    "static/media/avatar.jpg": "/static/media/avatar.67a5a737919abc94a68e.jpg",
+    "index.html": "/index.html",
+    "main.7897f035.css.map": "/static/css/main.7897f035.css.map",
+    "main.76e08f13.js.map": "/static/js/main.76e08f13.js.map"
   },
   "entrypoints": [
-    "static/css/main.8730eb86.css",
-    "static/js/main.af3ce06c.js"
+    "static/css/main.7897f035.css",
+    "static/js/main.76e08f13.js"
   ]
 }

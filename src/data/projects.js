@@ -1,8 +1,8 @@
-import vietjackImage from "../../assets/img/projects/vietjack.png";
-import tinytotsImage from "../../assets/img/projects/tinytots.png";
-import streamEaseImage from "../../assets/img/projects/streamEasy.png";
-import musicApplicationImage from "../../assets/img/projects/musicApplication.png";
-import vehicleInsuranceImage from "../../assets/img/projects/vehicleInsurance.png";
+import vietjackImage from "../assets/img/projects/vietjack.png";
+import tinytotsImage from "../assets/img/projects/tinytots.png";
+import streamEaseImage from "../assets/img/projects/streamEasy.png";
+import musicApplicationImage from "../assets/img/projects/musicApplication.png";
+import vehicleInsuranceImage from "../assets/img/projects/vehicleInsurance.png";
 
 const projects = [
   {

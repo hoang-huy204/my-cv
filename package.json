@@ -1,7 +1,7 @@
 {
   "name": "my-cv",
   "version": "0.1.0",
-  "homepage": "https://github.com/hoang-huy204/my-cv",
+  "homepage": "https://hoang-huy204.github.io/my-cv/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.14.0",
